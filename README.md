@@ -15,7 +15,7 @@
 * Used the Pandas Library and the Jupyter Notebook, Matplotlib library.
 
 
-![Tumor Change Over 45 Day Treatment](Images/Tumor Change Over 45 Day Treatment.png)
-![Metastatic Spread During Treatment](Images/Metastatic Spread During Treatment.png)
-![Survival During Treatment](Images/Survival During Treatment.png)
+![Tumor Change Over 45 Day Treatment](https://github.com/jhenvi/Pharmaceutical_Study-Matplotlib-Pandas/blob/master/Images/Tumor_Change_Over_45%20Day%20_Treatment.png)
+![Metastatic Spread During Treatment](https://github.com/jhenvi/Pharmaceutical_Study-Matplotlib-Pandas/blob/master/Images/Metastatic_Spread_During_Treatment.png)
+![Survival During Treatment](https://github.com/jhenvi/Pharmaceutical_Study-Matplotlib-Pandas/blob/master/Images/Survival_During_Treatment.png)
 
