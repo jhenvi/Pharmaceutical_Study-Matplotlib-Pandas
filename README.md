@@ -4,7 +4,7 @@
 - Their physiological responses were then monitored over the course of that time. 
 - The objective is to analyze and compate  the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo)  using python, pandas and matplotlib.
 
-###Created: 
+# Created: 
  - Scatter plot that shows how the tumor volume changes over time for each treatment.
  - Scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) 
  	(cancer spreading) sites changes over time for each treatment.
